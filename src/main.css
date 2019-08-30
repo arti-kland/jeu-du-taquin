@@ -1,0 +1,27 @@
+
+.container {
+    width: 800px;
+    height: 800px;
+    margin:0 auto;
+    margin-top: 100px;
+}
+
+.case {
+    border-radius: 12px;
+    width: 180px;
+    height: 180px;
+    background-color: lightgray;
+    float:left;
+    margin: 5px;
+}
+.white {
+    background-color: white;
+}
+
+p {
+    font-size: 150%;
+}
+
+.action {
+    margin:0 auto;
+}
